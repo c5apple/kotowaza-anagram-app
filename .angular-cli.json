@@ -19,6 +19,8 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "kaa",
       "styles": [
+        "../node_modules/milligram/dist/milligram.min.css",
+        "../node_modules/animate.css/animate.min.css",
         "styles.scss"
       ],
       "scripts": [],
