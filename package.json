@@ -5,9 +5,10 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "build": "ng build --prod --aot=true",
     "test": "ng test",
-    "lint": "ng lint",
+    "lint": "ng lint --type-check",
+    "sasslint": "sass-lint -c .sass-lint.yml -q -v",
     "e2e": "ng e2e"
   },
   "private": true,
@@ -42,6 +43,7 @@
     "karma-jasmine": "~1.1.0",
     "karma-jasmine-html-reporter": "^0.2.2",
     "protractor": "~5.1.2",
+    "sass-lint": "^1.12.1",
     "ts-node": "~3.2.0",
     "tslint": "~5.7.0",
     "typescript": "~2.3.3"
