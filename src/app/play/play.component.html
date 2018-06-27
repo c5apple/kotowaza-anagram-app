@@ -1,3 +1,11 @@
 <div class="animated fadeIn">
   play works!
+  <div class="row">
+    青菜に塩（あおなにしお）
+  </div>
+  <div class="row">
+    <div class="column">
+      <kaa-character *ngFor="let c of characters" [char]="c.character" [(isForcus)]="c.isForcus"></kaa-character>
+    </div>
+  </div>
 </div>

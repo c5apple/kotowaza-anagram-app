@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { PlayComponent } from './play.component';
+import { CharacterComponent } from './character/character.component';
 
 @NgModule({
   imports: [
@@ -9,6 +10,6 @@ import { PlayComponent } from './play.component';
   exports: [
     PlayComponent
   ],
-  declarations: [PlayComponent]
+  declarations: [PlayComponent, CharacterComponent]
 })
 export class PlayModule { }
