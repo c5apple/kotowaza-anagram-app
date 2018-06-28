@@ -1,3 +1,4 @@
-<button class="button-large" (click)="triggerFocus()" [ngClass]="{'button-outline' : !isForcus}">
+<button class="button-large" [ngClass]="{'button-outline' : !isFocus, 'animated flip': onAnimated}" (click)="triggerFocus()"
+  (animationend)="onAnimateEnd()">
   {{char}}
 </button>

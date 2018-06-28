@@ -5,7 +5,8 @@
   </div>
   <div class="row">
     <div class="column">
-      <kaa-character *ngFor="let c of characters" [char]="c.character" [(isForcus)]="c.isForcus"></kaa-character>
+      <kaa-character *ngFor="let c of characters" [char]="c.text" [isFocus]="c.isFocus" (isFocusChange)="c.isFocus = $event; changeCharacter($event)"></kaa-character>
     </div>
   </div>
+  <button (click)="check()">check</button>
 </div>

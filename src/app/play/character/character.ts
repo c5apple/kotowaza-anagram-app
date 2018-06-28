@@ -3,13 +3,13 @@
  */
 export class Character {
   /** 選択状態 */
-  isForcus: boolean = false;
+  isFocus: boolean = false;
 
   /**
    * 文字クラス
-   * @param character 文字
+   * @param text 文字
    */
-  constructor(public character: string) {
+  constructor(public text: string) {
 
   }
 }
