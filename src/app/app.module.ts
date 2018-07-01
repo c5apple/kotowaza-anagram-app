@@ -1,10 +1,11 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { HttpModule } from '@angular/http';
 
+import { environment } from '../environments/environment';
 import { AppComponent } from './app.component';
 import { PlayModule } from './play/play.module';
 import { StartModule } from './start/start.module';
-import { PlayService } from './shared/service/play/play.service';
 
 @NgModule({
   declarations: [
@@ -12,10 +13,14 @@ import { PlayService } from './shared/service/play/play.service';
   ],
   imports: [
     BrowserModule,
+    HttpModule,
     PlayModule,
     StartModule
   ],
-  providers: [PlayService],
+  providers: [
+    environment.PlayService,
+    environment.QuestionService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

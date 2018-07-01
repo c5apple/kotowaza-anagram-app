@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 import { Character } from './character/character';
+import { QuestionService } from '../shared/service/question/question.service';
 
 /**
  * プレイ画面
@@ -12,37 +13,71 @@ import { Character } from './character/character';
 })
 export class PlayComponent implements OnInit {
 
+  /** 問題 */
+  question: any;
+
   /** 文字 */
   characters: Character[] = [];
 
-  constructor() { }
+  /** 答え */
+  answer = '';
+
+  /** 意味 */
+  mean = '';
+
+  constructor(private questionService: QuestionService) { }
 
   ngOnInit() {
-    const questions = 'あおなにしお'.split('');
+    // 問題設定
+    this.setQuestion();
+  }
 
-    // シャッフル
-    let n = questions.length, t, i;
-    while (n) {
-      i = Math.floor(Math.random() * n--);
-      t = questions[n];
-      questions[n] = questions[i];
-      questions[i] = t;
-    }
-    // 問題セット
-    questions.forEach(q => {
-      this.characters.push(new Character(q));
+  /**
+   * 問題を設定する
+   */
+  private setQuestion() {
+    this.questionService.getQuestions().subscribe(questions => {
+      // 問題選別
+      this.question = questions[Math.floor(Math.random() * Math.floor(questions.length))];
+      const characters = this.question.characters.split('');
+      this.answer = '';
+      this.mean = '';
+
+      // 文字シャッフル
+      let n = characters.length, t, i;
+      while (n) {
+        i = Math.floor(Math.random() * n--);
+        t = characters[n];
+        characters[n] = characters[i];
+        characters[i] = t;
+      }
+      // 問題文字列セット
+      characters.forEach(q => {
+        this.characters.push(new Character(q));
+      });
     });
+  }
+
+  /**
+   * ヒントボタン
+   */
+  hint(): void {
+    // 意味セット
+    this.mean = this.question.mean;
   }
 
   /**
    * 答え合わせボタン
    */
   check(): void {
+    // 答えセット
+    this.answer = this.question.kotowaza + '（' + this.question.characters + '）';
+
     console.log(this.characters);
     const myAnswer: string = this.characters.map((character: Character) => character.text).join('');
 
     console.log('myAnswer', myAnswer);
-    if ('あおなにしお' === myAnswer) {
+    if (this.question.characters === myAnswer) {
       console.log('正解');
     } else {
       console.log('不正解');

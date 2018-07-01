@@ -1,0 +1,2447 @@
+[
+  {
+    "kotowaza": "会うは別れの始め",
+    "characters": "あうはわかれのはじめ",
+    "mean": "出会ったときから別れは始まっているという意味で、会った人とは必ずいつか別れるものだということ。人生の無常を表している言葉。"
+  },
+  {
+    "kotowaza": "青菜に塩",
+    "characters": "あおなにしお",
+    "mean": "青菜に塩を振り掛けると萎（しお）れてしまうことから転じて、人が、元気を失って萎れたようになっていることを表わす。"
+  },
+  {
+    "kotowaza": "青は藍より出でて藍よりも青し",
+    "characters": "あおはあいよりいでてあいよりあおし",
+    "mean": "教えを受けた者が教えた人よりも優（すぐ）れること。弟子の方が師匠よりも優れること。"
+  },
+  {
+    "kotowaza": "秋の扇",
+    "characters": "あきのおうぎ",
+    "mean": "夏を過ぎて顧（かえり）みられなくなった扇を我が身の境遇に喩えた言葉。男の愛を失った女のこと。"
+  },
+  {
+    "kotowaza": "秋の日は釣瓶落とし",
+    "characters": "あきのひはつるべおとし",
+    "mean": "秋の夕日は沈み始めると忽（たちま）ち落ちるということを、釣瓶落としに喩えた言葉。"
+  },
+  {
+    "kotowaza": "悪事千里を走る",
+    "characters": "あくじせんりをはしる",
+    "mean": "悪い行ないや悪い評判、悪い噂は忽（たちま）ち世間に知れ渡る。"
+  },
+  {
+    "kotowaza": "麻の中の蓬",
+    "characters": "あさのなかのよもぎ",
+    "mean": "麻のように真っ直ぐなものの中に混じって生えれば、蓬も自然に曲がらずに伸びるということ。善良な人と交わっていれば、感化されて、自然に善人になるということの喩え。"
+  },
+  {
+    "kotowaza": "頭の上の蝿も追えぬ",
+    "characters": "あたまのうえのはえもおえぬ",
+    "mean": "自分一人の始末もできない者のことを指して言う｡"
+  },
+  {
+    "kotowaza": "悪貨は良貨を駆逐する",
+    "characters": "あっかはりょうかをくちくする",
+    "mean": "質（たち）の悪い人間が蔓延（はびこ）って、優れた人間が姿を消すということ。悪が栄え善が滅びるということ｡　"
+  },
+  {
+    "kotowaza": "圧巻",
+    "characters": "あっかん",
+    "mean": "１．他を圧倒するほど優れた詩文｡　２． 書物や催し物で、一番優れた部分・箇所｡　例：「ラストシーンが圧巻だった」"
+  },
+  {
+    "kotowaza": "羹に懲りて膾を吹く",
+    "characters": "あつものにこりてなますをふく",
+    "mean": "熱かった吸い物に懲りて、ついつい膾や韲物（あえもの）のような冷たい料理も吹いて冷ますということから、一度しでかした失敗に懲りて、必要以上の用心をすること。"
+  },
+  {
+    "kotowaza": "後足で砂を掛ける",
+    "characters": "あとあしですなをかける",
+    "mean": "犬や猫は糞をしたあと後足で砂を掛けるような動作をするが、犬猫のそういう動作のように、面倒を見てくれた人の恩義を裏切るだけでなく、別れ際に更に迷惑を掛けて不快感を与えるというようなことをする。"
+  },
+  {
+    "kotowaza": "後の祭り",
+    "characters": "あとのまつり",
+    "mean": "祭りが済んだ後の山車（だし）という意味から、適当な時機が過ぎてしまえば最早なんの役にも立たないもののこと。やってしまった後に悔いること。"
+  },
+  {
+    "kotowaza": "痘痕も靨",
+    "characters": "あばたもえくぼ",
+    "mean": "１．好きになると相手の痘痕でも靨（えくぼ）のように見えるものだ。惚（ほ）れていると、相手の欠点も長所のように見えるものである。　２．贔屓目（ひいきめ）で見れば、醜（みにく）いものも美しく見えるものである。"
+  },
+  {
+    "kotowaza": "危ない橋を渡る",
+    "characters": "あぶないはしをわたる",
+    "mean": "危険な道を選んで進む。危険な手段を用いてことをなす。危険すれすれのことをする。"
+  },
+  {
+    "kotowaza": "虻蜂取らず",
+    "characters": "あぶはちとらず",
+    "mean": "虻と蜂の両方を捕らえようと欲張ったばかりにどちらも捕れなかったという意味から、余り欲張ると却って何一つ手に入れることができないということの喩え。"
+  },
+  {
+    "kotowaza": "雨垂れ石を穿つ",
+    "characters": "あまだれいしをうがつ",
+    "mean": "一定の場所に落ちる雨だれは、長い間に下にある石に穴を穿つという意味から、小さな力でも根気よく続ければ成功することの喩え。"
+  },
+  {
+    "kotowaza": "網呑舟の魚を漏らす",
+    "characters": "あみどんしゅうのうおをもらす",
+    "mean": "呑舟の魚とは、船を呑むほど大きな魚のことで、善悪ともに､大人物・大物の喩え｡網の目が粗いために舟を呑むほどの大魚までも逃がすということ。法の規定が大まかなため、大罪人を逃がしてしまうということ。"
+  },
+  {
+    "kotowaza": "雨降って地固まる",
+    "characters": "あめふってじかたまる",
+    "mean": "雨の降った後は以前にも況（ま）して地面が堅固になるということから、変事の後は、却（かえ）って事態が落ち着いて、基礎が固まる、或いは、以前より良い状態になるということ。"
+  },
+  {
+    "kotowaza": "鮑の片思い",
+    "characters": "あわびのかたおもい",
+    "mean": "鮑の殻は二枚貝の片側だけのように見え、いつももう片方の貝を求めているということから、一方からだけ恋い慕うこと。片思い。"
+  },
+  {
+    "kotowaza": "鞍上人なく鞍下馬なし",
+    "characters": "あんじょうひとなくあんかうまなし",
+    "mean": "鞍上の人と鞍下の馬とが一体となったように見えるということ。馬を巧みに乗りこなす様子を表した言葉。"
+  },
+  {
+    "kotowaza": "石が流れて木の葉が沈む",
+    "characters": "いしがながれてこのはがしずむ",
+    "mean": "ものごとが道理とは逆になっていること。"
+  },
+  {
+    "kotowaza": "石に漱ぎ流れに枕す",
+    "characters": "いしにくちすすぎながれにまくらす",
+    "mean": "負け惜しみが強く、自分の誤りに屁理屈を付けて言い逃れる。"
+  },
+  {
+    "kotowaza": "石の上にも三年",
+    "characters": "いしのうえにもさんねん",
+    "mean": "冷たい石の上でも三年座り続ければ温（あたた）まるという意味から、仮令（たとえ）辛くても、耐えていれば、やがて報（むく）われるということ。"
+  },
+  {
+    "kotowaza": "石橋を叩いて渡る",
+    "characters": "いしばしをたたいてわたる",
+    "mean": "堅固そうに見える石橋でも、叩いてその堅固さを確かめてから渡るということ。１．用心の上にも用心することの喩え。２．過剰に用心することを嘲（あざけ）って言う言葉。　例：「あいつは石橋を叩いたって渡りゃしない」"
+  },
+  {
+    "kotowaza": "医者の不養生",
+    "characters": "いしゃのふようじょう",
+    "mean": "患者に摂生（せっせい）を薦める立場の医者が自分では意外に不摂生なことをしているという意味で､一般に、他人には立派なことを教えておきながら実行が伴っていないこと。"
+  },
+  {
+    "kotowaza": "交喙の嘴",
+    "characters": "いすかのはし",
+    "mean": "交喙の上下の嘴（くちばし）が左右に食い違っていて合わないところから、ものごとが食い違って思うようにならないこと。"
+  },
+  {
+    "kotowaza": "急がば回れ",
+    "characters": "いそがばまわれ",
+    "mean": "危険な近道をするよりも、遠回りでも安全確実な道を歩いた方が結局は目的地に早く着ける。遠回りに思えても安全な手段を取った方が得策であるということ。"
+  },
+  {
+    "kotowaza": "鼬の最後っ屁",
+    "characters": "いたちのさいごっぺ",
+    "mean": "１．鼬が敵に追われた時、悪臭を放って難を逃れること。２． 転じて、切羽詰まったとき非常手段を用いること。また、最後の最後に醜態（しゅうたい）を演じること。"
+  },
+  {
+    "kotowaza": "鼬の道切り",
+    "characters": "いたちのみちきり",
+    "mean": "１．鼬の通路を遮断すること。２．鼬が目の前の道を横切ること。３．往来、交際、音信などの絶えることを喩えて使う。　★鼬は決まった道だけを通る習性であるが、通路を遮断されると同じ通路を二度と通らないという俗説から。または、鼬が道を横切ると凶事が起こるという迷信から。"
+  },
+  {
+    "kotowaza": "一言以ってこれを蔽う",
+    "characters": "いちげんもってこれをおおう",
+    "mean": "たった一言（ひとこと）で全体の意味を言い尽くす。また、その言葉。"
+  },
+  {
+    "kotowaza": "一事が万事",
+    "characters": "いちじがばんじ",
+    "mean": "一つの事を見るだけで、他のすべての事が想像できる。また、一つの小事を見ても、ひいては万事その調子になるだろうということ。"
+  },
+  {
+    "kotowaza": "一字千金",
+    "characters": "いちじせんきん",
+    "mean": "１．詩文の表現や筆跡などを尊重して言う言葉で､一文字だけで千金もの価値があること。２．師の恩情が厚いことの喩え。"
+  },
+  {
+    "kotowaza": "一難去ってまた一難",
+    "characters": "いちなんさってまたいちなん",
+    "mean": "災難や危機が次々と襲ってくること。"
+  },
+  {
+    "kotowaza": "一葉落ちて天下の秋を知る",
+    "characters": "いちようおちててんかのあきをしる",
+    "mean": "桐の葉が一枚落ちるのを見て秋が来たのを知るという意味で、僅（わず）かな現象を見て、その大勢や将来を予知することの喩え。"
+  },
+  {
+    "kotowaza": "一挙両得",
+    "characters": "いっきょりょうとく",
+    "mean": "一つの行動によって、同時に二つの利益を収めること。"
+  },
+  {
+    "kotowaza": "一刻千金",
+    "characters": "いっこくせんきん",
+    "mean": "僅（わず）かな時間が千金にも値すること。大切な時や楽しい時が過ぎ易いのを惜しむときなどに使う。"
+  },
+  {
+    "kotowaza": "一刻千秋",
+    "characters": "いっこくせんしゅう",
+    "mean": "時間の経つのが非常に長く思われること。"
+  },
+  {
+    "kotowaza": "一将功成りて万骨枯る",
+    "characters": "いっしょうこうなりてばんこつかる",
+    "mean": "一人の将軍が輝かしい功名を立てた陰には、戦場に屍（しかばね）を晒（さら）す多くの兵士の犠牲があった筈である。功名を徒（いたずら）に指導者だけのものとするものではないということ。"
+  },
+  {
+    "kotowaza": "一寸先は闇",
+    "characters": "いっすんさきはやみ",
+    "mean": "行く道の一寸先には何が転（ころ）がっているか分からない。将来のことは予測できない。"
+  },
+  {
+    "kotowaza": "一寸の光陰軽んずべからず",
+    "characters": "ちょっとのこういんかろんずべからず",
+    "mean": "僅かな時間も無駄にしてはいけない。"
+  },
+  {
+    "kotowaza": "一寸の虫にも五分の魂",
+    "characters": "ちょっとのむしにもふんのたましい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "一斑を以って全豹を卜す",
+    "characters": "いっぱんをもってぜんぴょうをぼくす",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鷸蚌の争い",
+    "characters": "しぎはまぐりのあらそい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "乙夜の覧",
+    "characters": "おつよるのみ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "犬と猿",
+    "characters": "いぬとさる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "犬の遠吠え",
+    "characters": "いぬのとおぼえ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "犬も歩けば棒に当たる",
+    "characters": "いぬもあるけばぼうにあたる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "命あっての物種",
+    "characters": "いのちあってのものだね",
+    "mean": ""
+  },
+  {
+    "kotowaza": "井の中の蛙大海を知らず",
+    "characters": "いのなかのかわずたいかいをしらず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "衣鉢を伝う",
+    "characters": "いはつをつたう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "韋編三度絶つ",
+    "characters": "いへんさんどたつ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鰯の頭も信心から",
+    "characters": "いわしのあたまもしんじんから",
+    "mean": ""
+  },
+  {
+    "kotowaza": "言わぬが花",
+    "characters": "いわぬがはな",
+    "mean": ""
+  },
+  {
+    "kotowaza": "殷鑑遠からず",
+    "characters": "いんかんどおからず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "魚心あれば水心",
+    "characters": "うおごころあればみずごころ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "牛に引かれて善光寺参り",
+    "characters": "うしにひかれてぜんこうじまいり",
+    "mean": ""
+  },
+  {
+    "kotowaza": "牛は牛連れ",
+    "characters": "うしはうしづれ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "氏より育ち",
+    "characters": "しよりそだち",
+    "mean": ""
+  },
+  {
+    "kotowaza": "牛を馬に乗り換える",
+    "characters": "うしをうまにのりかえる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "嘘から出た実",
+    "characters": "うそからでたみ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "嘘も方便",
+    "characters": "うそもほうべん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "独活の大木",
+    "characters": "うどのたいぼく",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鵜の真似をする烏",
+    "characters": "うのまねをするからす",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鵜の目鷹の目",
+    "characters": "うのめたかのめ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "馬の耳に念仏",
+    "characters": "うまのみみにねんぶつ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "売り言葉に買い言葉",
+    "characters": "うりことばにかいことば",
+    "mean": ""
+  },
+  {
+    "kotowaza": "瓜の蔓に茄子は生らぬ",
+    "characters": "うりのつるになすびはならぬ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "噂をすれば影が射す",
+    "characters": "うわさをすればかげがさす",
+    "mean": ""
+  },
+  {
+    "kotowaza": "雲泥の差",
+    "characters": "うんでいのさ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "易簀",
+    "characters": "えきす",
+    "mean": ""
+  },
+  {
+    "kotowaza": "得手に帆を揚げる",
+    "characters": "えてにほをあげる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "江戸の仇を長崎で討つ",
+    "characters": "えどのあだをながさきでうつ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "蝦で鯛を釣る",
+    "characters": "えびでたいをつる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "遠交近攻",
+    "characters": "えんこうきんこう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "猿猴月を取る",
+    "characters": "えんこうつきをとる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "燕雀安んぞ鴻鵠の志を知らん",
+    "characters": "えんじゃくいずくんぞこうこくのしをしらん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "偃鼠河に飲めども腹を満たすに過ぎず",
+    "characters": "えんねずみかわにのめどもはらをみたすにすぎず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "縁の下の力持ち",
+    "characters": "えんのしたのちからもち",
+    "mean": ""
+  },
+  {
+    "kotowaza": "傍目八目",
+    "characters": "おかめはちもく",
+    "mean": ""
+  },
+  {
+    "kotowaza": "奥歯に物が挟まる",
+    "characters": "おくばにものがはさまる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "驕る者久しからず",
+    "characters": "おごるものひさしからず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "小田原評定",
+    "characters": "おだわらひょうじょう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "同じ穴の狢",
+    "characters": "おなじあなのむじな",
+    "mean": ""
+  },
+  {
+    "kotowaza": "同じ釜の飯を食う",
+    "characters": "おなじかまのめしをくう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鬼が出るか蛇が出るか",
+    "characters": "おにがでるかへびがでるか",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鬼が笑う",
+    "characters": "おにがわらう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鬼に金棒",
+    "characters": "おににかなぼう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鬼の居ぬ間の洗濯",
+    "characters": "おにのいぬまのせんたく",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鬼の首を取ったよう",
+    "characters": "おにのくびをとったよう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鬼の念仏",
+    "characters": "おにのねんぶつ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鬼の目にも涙",
+    "characters": "おにのめにもなみだ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鬼も十八番茶も出花",
+    "characters": "おにもじゅうはちばんちゃもでぎ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "帯に短し襷に長し",
+    "characters": "おびにみじかしたすきにながし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "溺れる者は藁をも掴む",
+    "characters": "おぼれるものはわらをもつかむ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "親の心子知らず",
+    "characters": "おやのこころごしらず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "親の光は七光り",
+    "characters": "おやのひかりはななひかり",
+    "mean": ""
+  },
+  {
+    "kotowaza": "女賢しうて牛売り損なう",
+    "characters": "おんなかしこしうてうしうりそこなう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "女三人寄れば姦しい",
+    "characters": "おんなさんにんよればかしましい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "飼い犬に手を噛まれる",
+    "characters": "かいいぬにてをかまれる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "会稽の恥",
+    "characters": "かいけいのはじ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "解語の花",
+    "characters": "かいごのはな",
+    "mean": ""
+  },
+  {
+    "kotowaza": "隗より始めよ",
+    "characters": "かいよりはじめよ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "蛙の子は蛙",
+    "characters": "かえるのこはかえる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "蛙の面に水",
+    "characters": "かえるのめんにみず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "蝸牛角上の争い",
+    "characters": "かぎゅうかくじょうのあらそい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "獲麟",
+    "characters": "えりん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "華胥の国に遊ぶ",
+    "characters": "かしょのくににあそぶ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "臥薪嘗胆",
+    "characters": "がしんしょうたん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "苛政は虎よりも猛し",
+    "characters": "かせいはとらよりもたけしし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "渇すれども盗泉の水を飲まず",
+    "characters": "かっすれどもとうせんのみずをのまず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "河童の川流れ",
+    "characters": "かっぱのかわながれ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "河童の屁",
+    "characters": "かっぱのへ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "桂を折る",
+    "characters": "かつらをおる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "瓜田に履を納れず",
+    "characters": "かでんにばきをいれず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鼎の軽重を問う",
+    "characters": "かなえのけいちょうをとう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "蟹は甲羅に似せて穴を掘る",
+    "characters": "かにはこうらににせてあなをほる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "金の切れ目が縁の切れ目",
+    "characters": "きんのきれめがえんのきれめ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "金は天下の回りもの",
+    "characters": "きんはてんかのまわりもの",
+    "mean": ""
+  },
+  {
+    "kotowaza": "禍福は糾える縄の如し",
+    "characters": "かふくはあざなえるなわのごとし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "壁に耳",
+    "characters": "かべにみみ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "果報は寝て待て",
+    "characters": "かほうはねてまて",
+    "mean": ""
+  },
+  {
+    "kotowaza": "剃刀の刃を渡る",
+    "characters": "かみそりのはをわたる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "亀の甲より年の功",
+    "characters": "かめのこうよりとしのこう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鴨が葱を背負って来る",
+    "characters": "かもがねぎをせおってくる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "痒いところに手が届く",
+    "characters": "かゆいところにてがとどく",
+    "mean": ""
+  },
+  {
+    "kotowaza": "烏に反哺の孝あり",
+    "characters": "からすにはんぽのこうあり",
+    "mean": ""
+  },
+  {
+    "kotowaza": "画龍点睛",
+    "characters": "がりょうてんせい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "枯れ木に花",
+    "characters": "かれきにはな",
+    "mean": ""
+  },
+  {
+    "kotowaza": "枯れ木も山の賑わい",
+    "characters": "かれきもやまのにぎわい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "可愛い子には旅をさせよ",
+    "characters": "かわいいこにはたびをさせよ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "邯鄲の歩み",
+    "characters": "かんたんのあゆみ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "邯鄲の夢",
+    "characters": "かんたんのゆめ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "艱難汝を玉にす",
+    "characters": "かんなんなんじをたまにす",
+    "mean": ""
+  },
+  {
+    "kotowaza": "堪忍袋の緒が切れる",
+    "characters": "かんにんぶくろのおがきれる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "管鮑の交わり",
+    "characters": "かんぽうのまじわり",
+    "mean": ""
+  },
+  {
+    "kotowaza": "聞いて極楽見て地獄",
+    "characters": "きいてごくらくみてじごく",
+    "mean": ""
+  },
+  {
+    "kotowaza": "奇貨居くべし",
+    "characters": "きかきょくべし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "雉も鳴かずば撃たれまい",
+    "characters": "きじもなかずばうたれまい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "疑心暗鬼",
+    "characters": "ぎしんあんき",
+    "mean": ""
+  },
+  {
+    "kotowaza": "木で鼻を扱くる",
+    "characters": "きではなをあつかいくる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "木に竹を接ぐ",
+    "characters": "きにたけをつぐ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "木に縁りて魚を求む",
+    "characters": "きによりてさかなをもとむ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "昨日は人の身今日は我が身",
+    "characters": "きのうはひとのみきょうはわがみ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "木の実は本へ落つ",
+    "characters": "きのみはほんへおちつ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "気は心",
+    "characters": "きはこころ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "杞憂",
+    "characters": "きゆう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "九死に一生を得る",
+    "characters": "しにいっせいをえる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "牛耳を執る",
+    "characters": "ぎゅうじをとる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "窮すれば通ず",
+    "characters": "きゅうすればつうず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "窮鼠猫を噛む",
+    "characters": "きゅうそねこをかむ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "器用貧乏",
+    "characters": "きようびんぼう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "渠成って水至る",
+    "characters": "みぞなってみずいたる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "漁夫の利",
+    "characters": "ぎょふのり",
+    "mean": ""
+  },
+  {
+    "kotowaza": "騏驥も老いては駑馬に劣る",
+    "characters": "きはやまもおいてはどばにおとる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "金時の火事見舞い",
+    "characters": "きんときのかじみまい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "臭いものに蓋をする",
+    "characters": "くさいものにふたをする",
+    "mean": ""
+  },
+  {
+    "kotowaza": "腐っても鯛",
+    "characters": "くさってもたい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "糞も味噌も一緒",
+    "characters": "ふんもみそもいっしょ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "口は禍の門",
+    "characters": "くちはわざわいのもん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "唇亡びて歯寒し",
+    "characters": "くちびるほろびてはさむし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "口も八丁手も八丁",
+    "characters": "くちもはっちょうしゅもはっちょう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "国破れて山河あり",
+    "characters": "くにやぶれてやまがあり",
+    "mean": ""
+  },
+  {
+    "kotowaza": "蜘蛛の子を散らす",
+    "characters": "くものこをちらす",
+    "mean": ""
+  },
+  {
+    "kotowaza": "暗がりから牛",
+    "characters": "くらがりからうし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "苦しいときの神頼み",
+    "characters": "くるしいときのかみだのみ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "君子危うきに近寄らず",
+    "characters": "くんしあやうきにちかよらず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "君子は豹変する",
+    "characters": "くんしはひょうへんする",
+    "mean": ""
+  },
+  {
+    "kotowaza": "葷酒山門に入るを許さず",
+    "characters": "くんしゅやまかどにはいるをゆるさず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "群盲象を評す",
+    "characters": "ぐんもうぞうをひょうす",
+    "mean": ""
+  },
+  {
+    "kotowaza": "挂冠",
+    "characters": "けいかん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鶏群の一鶴",
+    "characters": "けいぐんのいっかく",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鶏口となるも牛後となる勿れ",
+    "characters": "けいこうとなるもぎゅうごとなるなかれ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "芸術は長く人生は短し",
+    "characters": "げいじゅつはながくじんせいはみじかし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "蛍雪",
+    "characters": "けいせつ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "兄たり難く弟たり難し",
+    "characters": "あにたりかたくおとうとたりむずかし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鶏鳴狗盗",
+    "characters": "けいめいくとう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "怪我の功名",
+    "characters": "けがのこうみょう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "逆鱗",
+    "characters": "げきりん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "月下氷人",
+    "characters": "げっかひょうじん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "毛を吹いて傷を求める",
+    "characters": "けをふいてきずをもとめる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "涓滴石を穿つ",
+    "characters": "けんてきいしをうがつ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "恋は思案の外",
+    "characters": "こいはしあんのほか",
+    "mean": ""
+  },
+  {
+    "kotowaza": "光陰矢の如し",
+    "characters": "こういんやのごとし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "後悔先に立たず",
+    "characters": "こうかいさきにたたず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "好事魔多し",
+    "characters": "こうじまおおし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "弘法も筆の誤まり",
+    "characters": "ぐほうもふでのあやまり",
+    "mean": ""
+  },
+  {
+    "kotowaza": "高木は風に折らる",
+    "characters": "たかぎはかぜにおりらる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "紺屋の明後日",
+    "characters": "こうやのみょうごにち",
+    "mean": ""
+  },
+  {
+    "kotowaza": "紺屋の白袴",
+    "characters": "こうやのしろばかま",
+    "mean": ""
+  },
+  {
+    "kotowaza": "呉越同舟",
+    "characters": "ごえつどうしゅう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "呉下の阿蒙",
+    "characters": "ごかのあもう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "故郷へ錦を飾る",
+    "characters": "こきょうへにしきをかざる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "虎穴に入らずんば虎子を得ず",
+    "characters": "こけつにはいらずんばこじをえず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "五十歩百歩",
+    "characters": "ごじっぽひゃっぽ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "壺中の天地",
+    "characters": "こちゅうのてんち",
+    "mean": ""
+  },
+  {
+    "kotowaza": "子は三界の首枷",
+    "characters": "こはさんがいのくびかせ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鼓腹撃壌",
+    "characters": "こふくげきじょう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "田作の歯軋り",
+    "characters": "ごまめのはぎしり",
+    "mean": ""
+  },
+  {
+    "kotowaza": "子故の闇",
+    "characters": "こゆえのやみ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "転ばぬ先の杖",
+    "characters": "ころばぬさきのつえ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "塞翁が馬",
+    "characters": "さいおうがうま",
+    "mean": ""
+  },
+  {
+    "kotowaza": "先んずれば人を制す",
+    "characters": "さきんずればひとをせいす",
+    "mean": ""
+  },
+  {
+    "kotowaza": "酒は百薬の長",
+    "characters": "さけはひゃくやくのちょう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "左袒",
+    "characters": "さたん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "五月の鯉の吹流し",
+    "characters": "さつきのこいのふきながし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "去る者は日々に疎し",
+    "characters": "さるものはひびにうとし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "触らぬ神に祟りなし",
+    "characters": "さわらぬかみにたたりなし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "三顧の礼",
+    "characters": "さんこのれい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "三十六計逃げるに如かず",
+    "characters": "さんじゅうろっけいにげるにしかず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "山椒は小粒でもぴりりと辛い",
+    "characters": "さんしょうはこつぶでもぴりりとからい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鹿を追う者は山を見ず",
+    "characters": "しかをおうものはやまをみず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鹿を指して馬と為す",
+    "characters": "しかをさしてうまとなす",
+    "mean": ""
+  },
+  {
+    "kotowaza": "地獄で仏に会う",
+    "characters": "じごくでほとけにあう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "肉食った報い",
+    "characters": "にくくったむくい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "獅子身中の虫",
+    "characters": "しししんちゅうのむし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "死児の齢を数える",
+    "characters": "しじのよわいをかぞえる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "士族の商法",
+    "characters": "しぞくのしょうほう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "七歩の才",
+    "characters": "しちぶのさい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "死人に口なし",
+    "characters": "しにんにくちなし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "死馬の骨を買う",
+    "characters": "しうまのほねをかう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "四面楚歌",
+    "characters": "しめんそか",
+    "mean": ""
+  },
+  {
+    "kotowaza": "釈迦に説法",
+    "characters": "しゃかにせっぽう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "杓子定規",
+    "characters": "しゃくしじょうぎ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "蛇の道は蛇",
+    "characters": "じゃのみちはへび",
+    "mean": ""
+  },
+  {
+    "kotowaza": "重箱の隅を楊枝でほじくる",
+    "characters": "じゅうばこのすみをようじでほじくる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "守株",
+    "characters": "しゅしゅ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "出盧",
+    "characters": "しゅつろ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "朱に交われば赤くなる",
+    "characters": "しゅにまじわればあかくなる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "正直の頭に神宿る",
+    "characters": "しょうじきのあたまにかみやどる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "上知と下愚は移らず",
+    "characters": "じょうちとかぐはうつらず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "食指が動く",
+    "characters": "しょくしがうごく",
+    "mean": ""
+  },
+  {
+    "kotowaza": "知らぬが仏",
+    "characters": "しらぬがほとけ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "白羽の矢が立つ",
+    "characters": "しらはのやがたつ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "尻馬に乗る",
+    "characters": "しりうまにのる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "水魚の交わり",
+    "characters": "すいぎょのまじわり",
+    "mean": ""
+  },
+  {
+    "kotowaza": "推敲",
+    "characters": "すいこう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "粋は身を食う",
+    "characters": "いきはみをくう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "酸いも甘いも噛み分けた",
+    "characters": "すいもあまいもかみわけた",
+    "mean": ""
+  },
+  {
+    "kotowaza": "据膳食わぬは男の恥",
+    "characters": "すえぜんくわぬはおとこのはじ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "好きこそ物の上手なれ",
+    "characters": "すきこそもののじょうずなれ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "杜撰",
+    "characters": "ずさん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "雀の涙",
+    "characters": "すずめのなみだ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "雀百まで踊り忘れず",
+    "characters": "すずめまでおどりわすれず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "青眼",
+    "characters": "せいがん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "精神一到何事か成らざらん",
+    "characters": "せいしんいっとうなにごとかなるらざらん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "噬臍",
+    "characters": "ぜいせい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "清談",
+    "characters": "せいだん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "青天の霹靂",
+    "characters": "せいてんのへきれき",
+    "mean": ""
+  },
+  {
+    "kotowaza": "積善の家に余慶あり",
+    "characters": "せきぜんのいえによけいあり",
+    "mean": ""
+  },
+  {
+    "kotowaza": "折角",
+    "characters": "せっかく",
+    "mean": ""
+  },
+  {
+    "kotowaza": "折檻",
+    "characters": "せっかん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "背に腹は替えられぬ",
+    "characters": "せにはらはかえられぬ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "前車の覆るは後車の戒め",
+    "characters": "ぜんしゃのくつがえるはこうしゃのいましめ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "前車の轍を踏む",
+    "characters": "ぜんしゃのてつをふむ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "栴檀は二葉より芳し",
+    "characters": "せんだんはふたばよりかぐわし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "船頭多くして船山に登る",
+    "characters": "せんどうおおくしてふなやまにのぼる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "善は急げ",
+    "characters": "ぜんはいそげ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "滄海の一粟",
+    "characters": "そうかいのいちぞく",
+    "mean": ""
+  },
+  {
+    "kotowaza": "喪家の狗",
+    "characters": "そうかのいぬ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "宋襄の仁",
+    "characters": "そうふくろのじん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "総領の甚六",
+    "characters": "そうりょうのじんろく",
+    "mean": ""
+  },
+  {
+    "kotowaza": "俎上の魚",
+    "characters": "そじょうのさかな",
+    "mean": ""
+  },
+  {
+    "kotowaza": "袖振り合うも多生の縁",
+    "characters": "そでふりあうもたしょうのえん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "大海は芥を択ばず",
+    "characters": "たいかいはごみをえらばず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "大疑は大悟の基",
+    "characters": "だいうたがいはたいごのもと",
+    "mean": ""
+  },
+  {
+    "kotowaza": "大器晩成",
+    "characters": "たいきばんせい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "大賢は愚なるが如し",
+    "characters": "たいけんはぐなるがごとし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "太公望",
+    "characters": "たいこうぼう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "大山鳴動して鼠一匹",
+    "characters": "たいざんめいどうしてねずみいっぴき",
+    "mean": ""
+  },
+  {
+    "kotowaza": "大事の前の小事",
+    "characters": "だいじのまえのしょうじ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鯛の尾より鰯の頭",
+    "characters": "たいのおよりいわしのあたま",
+    "mean": ""
+  },
+  {
+    "kotowaza": "大勇は闘わず",
+    "characters": "たいゆうはたたかわず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "大欲は無欲に似たり",
+    "characters": "たいよくはむよくににたり",
+    "mean": ""
+  },
+  {
+    "kotowaza": "宝の持ち腐れ",
+    "characters": "たからのもちぐされ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "多岐亡羊",
+    "characters": "たきぼうよう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "多芸は無芸",
+    "characters": "たげいはむげい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "竹屋の火事",
+    "characters": "たけやのかじ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "竹薮に矢を射る",
+    "characters": "たけやぶにやをいる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "他山の石",
+    "characters": "たざんのいし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "多勢に無勢",
+    "characters": "たぜいにぶぜい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "蛇足",
+    "characters": "だそく",
+    "mean": ""
+  },
+  {
+    "kotowaza": "多々益々弁ず",
+    "characters": "たたますますべんず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "畳の上の水練",
+    "characters": "たたみのうえのすいれん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "立つ鳥跡を濁さず",
+    "characters": "たつとりあとをにごさず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "立て板に水",
+    "characters": "たていたにみず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "蓼食う虫も好き好き",
+    "characters": "たでくうむしもすきずき",
+    "mean": ""
+  },
+  {
+    "kotowaza": "棚から牡丹餅",
+    "characters": "たなからぼたもち",
+    "mean": ""
+  },
+  {
+    "kotowaza": "他人の疝気を頭痛に病む",
+    "characters": "たにんのせんきをずつうにやむ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "旅の恥は掻き捨て",
+    "characters": "たびのはじはかきすて",
+    "mean": ""
+  },
+  {
+    "kotowaza": "旅は道連れ世は情",
+    "characters": "たびはみちづれよはじょう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "卵に目鼻",
+    "characters": "たまごにめはな",
+    "mean": ""
+  },
+  {
+    "kotowaza": "玉に瑕",
+    "characters": "たまにきず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "短気は損気",
+    "characters": "たんきはそんき",
+    "mean": ""
+  },
+  {
+    "kotowaza": "知音",
+    "characters": "ちいん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "池魚の殃い",
+    "characters": "いけさかなのおうい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "竹馬の友",
+    "characters": "ちくばのとも",
+    "mean": ""
+  },
+  {
+    "kotowaza": "血で血を洗う",
+    "characters": "ちでちをあらう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "茶腹も一時",
+    "characters": "ちゃばらもじ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "忠言は耳に逆らう",
+    "characters": "ちゅうげんはみみにさからう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "朝三暮四",
+    "characters": "ちょうさんぼし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "提灯に釣鐘",
+    "characters": "ちょうちんにつりがね",
+    "mean": ""
+  },
+  {
+    "kotowaza": "朝令暮改",
+    "characters": "ちょうれいぼかい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "塵も積もれば山となる",
+    "characters": "ちりもつもればやまとなる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "月と鼈",
+    "characters": "つきとすっぽん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "月に叢雲、花に風",
+    "characters": "つきにむらくも、はなにかぜ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "月夜に釜を抜かれる",
+    "characters": "つきよにかまをぬかれる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "月夜に提灯",
+    "characters": "つきよにちょうちん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "土一升に金一升",
+    "characters": "つちいっしょうにきんいっしょう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "角を矯めて牛を殺す",
+    "characters": "つのをためてうしをころす",
+    "mean": ""
+  },
+  {
+    "kotowaza": "爪に火を灯す",
+    "characters": "つめにひをともす",
+    "mean": ""
+  },
+  {
+    "kotowaza": "爪の垢を煎じて飲む",
+    "characters": "つめのあかをせんじてのむ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鶴の一声",
+    "characters": "つるのひとこえ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鶴は千年亀は万年",
+    "characters": "つるはせんねんかめはまんねん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "聾の早耳",
+    "characters": "つんぼのはやみみ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "庭訓",
+    "characters": "ていきん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "亭主の好きな赤烏帽子",
+    "characters": "ていしゅのすきなあかえぼし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "泥中の蓮",
+    "characters": "でいちゅうのれん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "敵は本能寺にあり",
+    "characters": "てきはほんのうじにあり",
+    "mean": ""
+  },
+  {
+    "kotowaza": "梃子でも動かない",
+    "characters": "てこでもうごかない",
+    "mean": ""
+  },
+  {
+    "kotowaza": "手鍋を提げる",
+    "characters": "てなべをさげる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "出る杭は打たれる",
+    "characters": "でるくいはうたれる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "天衣無縫",
+    "characters": "てんいむほう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "椽大の筆",
+    "characters": "たるきだいのふで",
+    "mean": ""
+  },
+  {
+    "kotowaza": "天高く馬肥ゆる",
+    "characters": "てんたかくうまごやしゆる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "天に唾する",
+    "characters": "てんにつばする",
+    "mean": ""
+  },
+  {
+    "kotowaza": "天馬空を行く",
+    "characters": "てんまぞらをいく",
+    "mean": ""
+  },
+  {
+    "kotowaza": "天は自ら助くる者を助く",
+    "characters": "てんはみずからたすくるものをたすく",
+    "mean": ""
+  },
+  {
+    "kotowaza": "灯台下暗し",
+    "characters": "とうだいもとくらし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "問うに落ちず語るに落ちる",
+    "characters": "とうにおちずかたるにおちる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "豆腐に鎹",
+    "characters": "とうふにかすがい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "東奔西走",
+    "characters": "とうほんせいそう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "桃李言わざれども下自ずから蹊を成す",
+    "characters": "とうりいわざれどもかおのずからけいをなす",
+    "mean": ""
+  },
+  {
+    "kotowaza": "登竜門",
+    "characters": "とうりゅうもん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "十日の菊",
+    "characters": "とおかのきく",
+    "mean": ""
+  },
+  {
+    "kotowaza": "遠くの親類より近くの他人",
+    "characters": "とおくのしんるいよりちかくのたにん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "時は金なり",
+    "characters": "ときはかねなり",
+    "mean": ""
+  },
+  {
+    "kotowaza": "読書百遍意自ずから通ず",
+    "characters": "どくしょひゃっぺんいおのずからつうず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "毒を食らわば皿まで",
+    "characters": "どくをしょくらわばさらまで",
+    "mean": ""
+  },
+  {
+    "kotowaza": "毒を以って毒を制す",
+    "characters": "どくをもってどくをせいす",
+    "mean": ""
+  },
+  {
+    "kotowaza": "所変われば品変わる",
+    "characters": "ところかわればしなかわる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "年には勝てぬ",
+    "characters": "としにはかてぬ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "年寄りの冷や水",
+    "characters": "としよりのひやみず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "図南",
+    "characters": "となん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "斗南の一人",
+    "characters": "となんのひとり",
+    "mean": ""
+  },
+  {
+    "kotowaza": "駑馬に鞭打つ",
+    "characters": "どばにむちうつ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鳶が鷹を生む",
+    "characters": "とんびがたかをうむ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "飛ぶ鳥を落とす",
+    "characters": "とぶとりをおとす",
+    "mean": ""
+  },
+  {
+    "kotowaza": "虎の威を借る狐",
+    "characters": "とらのいをかりるきつね",
+    "mean": ""
+  },
+  {
+    "kotowaza": "虎は死して皮を残す",
+    "characters": "とらはししてかわをのこす",
+    "mean": ""
+  },
+  {
+    "kotowaza": "鳥無き里の蝙蝠",
+    "characters": "とりなきさとのこうもり",
+    "mean": ""
+  },
+  {
+    "kotowaza": "泥棒を見て縄を綯う",
+    "characters": "どろぼうをみてなわをなう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "無い袖は振れない",
+    "characters": "ないそではふれない",
+    "mean": ""
+  },
+  {
+    "kotowaza": "泣いて馬謖を斬る",
+    "characters": "ないてばしょくをきる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "長い物には巻かれろ",
+    "characters": "ながいものにはまかれろ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "泣き面に蜂",
+    "characters": "なきつらにはち",
+    "mean": ""
+  },
+  {
+    "kotowaza": "泣く子と地頭には勝てぬ",
+    "characters": "なくことじとうにはかてぬ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "情けは人の為ならず",
+    "characters": "なさけはひとのためならず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "七重の膝を八重に折る",
+    "characters": "ななえのひざをやえにおる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "名は体を表わす",
+    "characters": "なはからだをあらわす",
+    "mean": ""
+  },
+  {
+    "kotowaza": "怠け者の節句働き",
+    "characters": "なまけもののせっくばたらき",
+    "mean": ""
+  },
+  {
+    "kotowaza": "蛞蝓に塩",
+    "characters": "なめくじにしお",
+    "mean": ""
+  },
+  {
+    "kotowaza": "名を取るより実を取れ",
+    "characters": "なをとるよりみをとれ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "南柯の夢",
+    "characters": "なんかのゆめ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "煮え湯を飲まされる",
+    "characters": "にえゆをのまされる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "二階から目薬",
+    "characters": "にかいからめぐすり",
+    "mean": ""
+  },
+  {
+    "kotowaza": "逃がした魚は大きい",
+    "characters": "のがしたさかなはおおきい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "苦虫を噛み潰す",
+    "characters": "にがむしをかみつぶす",
+    "mean": ""
+  },
+  {
+    "kotowaza": "憎まれっ子世に憚る",
+    "characters": "にくまれっこよにはばかる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "錦を着て夜行くが如し",
+    "characters": "にしきをきてよるいくがごとし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "二豎",
+    "characters": "にじゅ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "似た者夫婦",
+    "characters": "にたものふうふ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "二度あることは三度ある",
+    "characters": "ふたたびあることはさんどある",
+    "mean": ""
+  },
+  {
+    "kotowaza": "二兎を追う者は一兎をも得ず",
+    "characters": "にとをおうものはいっとをもえず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "糠に釘",
+    "characters": "ぬかにくぎ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "盗人に追い銭",
+    "characters": "ぬすびとにおいせん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "濡れ手で粟",
+    "characters": "ぬれてであわ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "猫に小判",
+    "characters": "ねこにこばん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "猫の手も借りたい",
+    "characters": "ねこのてもかりたい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "猫を被る",
+    "characters": "ねこをかぶる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "嚢中の錐",
+    "characters": "のうちゅうのきり",
+    "mean": ""
+  },
+  {
+    "kotowaza": "残り物には福がある",
+    "characters": "のこりものにはふくがある",
+    "mean": ""
+  },
+  {
+    "kotowaza": "喉元過ぎれば熱さを忘れる",
+    "characters": "のどもとすぎればあつさをわすれる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "暖簾に腕押し",
+    "characters": "のれんにうでおし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "背水の陣",
+    "characters": "はいすいのじん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "掃き溜めに鶴",
+    "characters": "はきだめにつる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "破鏡",
+    "characters": "はきょう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "白眼",
+    "characters": "しろめ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "白玉楼",
+    "characters": "はくぎょくろう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "白眉",
+    "characters": "はくび",
+    "mean": ""
+  },
+  {
+    "kotowaza": "破天荒",
+    "characters": "はてんこう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "花は桜木人は武士",
+    "characters": "はなはさくらぎじんはぶし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "花より団子",
+    "characters": "はなよりだんご",
+    "mean": ""
+  },
+  {
+    "kotowaza": "早起きは三文の徳",
+    "characters": "はやおきはさんもんのとく",
+    "mean": ""
+  },
+  {
+    "kotowaza": "腹も身の内",
+    "characters": "はらもみのない",
+    "mean": ""
+  },
+  {
+    "kotowaza": "張子の虎",
+    "characters": "はりこのとら",
+    "mean": ""
+  },
+  {
+    "kotowaza": "引かれ者の小唄",
+    "characters": "ひかれもののこうた",
+    "mean": ""
+  },
+  {
+    "kotowaza": "髭の塵を払う",
+    "characters": "ひげのちりをはらう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "庇を貸して母屋を取られる",
+    "characters": "ひさしをかしておもやをとられる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "尾生の信",
+    "characters": "おうのしん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "顰に効う",
+    "characters": "ひそみにこうう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "人を呪わば穴二つ",
+    "characters": "ひとをのろいわばあなふたつ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "髀肉之嘆",
+    "characters": "ひにくのたん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "火のないところに煙は立たぬ",
+    "characters": "ひのないところにけむりはたたぬ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "百聞は一見に如かず",
+    "characters": "ひゃくぶんはいっけんにしかず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "瓢箪から駒",
+    "characters": "ひょうたんからこま",
+    "mean": ""
+  },
+  {
+    "kotowaza": "瓢箪鯰",
+    "characters": "ひょうたんなまず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "風声鶴唳",
+    "characters": "ふうせいかくれい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "風前の灯",
+    "characters": "ふうぜんのともしび",
+    "mean": ""
+  },
+  {
+    "kotowaza": "笛吹けども踊らず",
+    "characters": "ふえふきけどもおどらず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "覆水盆に反らず",
+    "characters": "ふくすいぼんにそらず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "武士は食わねど高楊枝",
+    "characters": "ぶしはくわねどたかようじ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "豚に真珠",
+    "characters": "ぶたにしんじゅ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "舟に刻みて剣を求む",
+    "characters": "ふねにきざみてつるぎをもとむ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "武陵桃源",
+    "characters": "ぶりょうとうげん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "焚書坑儒",
+    "characters": "ふんしょこうじゅ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "臍が茶を沸かす",
+    "characters": "へそがちゃをわかす",
+    "mean": ""
+  },
+  {
+    "kotowaza": "下手の考え休むに似たり",
+    "characters": "へたのかんがえやすむににたり",
+    "mean": ""
+  },
+  {
+    "kotowaza": "下手の横好き",
+    "characters": "へたのよこずき",
+    "mean": ""
+  },
+  {
+    "kotowaza": "弁慶の立ち往生",
+    "characters": "べんけいのたちおうじょう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "弁慶の泣き所",
+    "characters": "べんけいのなきどころ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "望蜀",
+    "characters": "ぼうしょく",
+    "mean": ""
+  },
+  {
+    "kotowaza": "坊主憎けりゃ袈裟まで憎い",
+    "characters": "ぼうずにくけりゃけさまでにくい",
+    "mean": ""
+  },
+  {
+    "kotowaza": "墨守",
+    "characters": "ぼくしゅ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "仏作って魂入れず",
+    "characters": "ふつさくってたましいいれず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "仏の顔も三度",
+    "characters": "ほとけのかおもさんど",
+    "mean": ""
+  },
+  {
+    "kotowaza": "蒔かぬ種は生えぬ",
+    "characters": "まかぬたねははえぬ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "馬子にも衣装",
+    "characters": "まごにもいしょう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "眉毛を読まれる",
+    "characters": "まゆげをよまれる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "眉に唾を塗る",
+    "characters": "まゆにつばをぬる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "眉に火が点く",
+    "characters": "まゆにひがつく",
+    "mean": ""
+  },
+  {
+    "kotowaza": "真綿で首を締める",
+    "characters": "まわたでくびをしめる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "木乃伊取りが木乃伊になる",
+    "characters": "みいらどりがみいらになる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "身から出た錆",
+    "characters": "みからでたさび",
+    "mean": ""
+  },
+  {
+    "kotowaza": "水に油",
+    "characters": "みずにあぶら",
+    "mean": ""
+  },
+  {
+    "kotowaza": "味噌を付ける",
+    "characters": "みそをつける",
+    "mean": ""
+  },
+  {
+    "kotowaza": "三日天下",
+    "characters": "みっかてんか",
+    "mean": ""
+  },
+  {
+    "kotowaza": "三日坊主",
+    "characters": "みっかぼうず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "三つ子の魂百まで",
+    "characters": "みつごのたましいまで",
+    "mean": ""
+  },
+  {
+    "kotowaza": "耳を掩いて鐘を盗む",
+    "characters": "みみをおおいてかねをぬすむ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "六日の菖蒲",
+    "characters": "むいかのあやめ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "昔取った杵柄",
+    "characters": "むかしとったきねづか",
+    "mean": ""
+  },
+  {
+    "kotowaza": "矛盾",
+    "characters": "むじゅん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "娘一人に婿八人",
+    "characters": "むすめひとりにむこにん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "胸に一物",
+    "characters": "むねにいちもつ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "無理が通れば道理が引っ込む",
+    "characters": "むりがとおればどうりがひっこむ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "目から鼻へ抜ける",
+    "characters": "めからはなへぬける",
+    "mean": ""
+  },
+  {
+    "kotowaza": "目屎鼻屎を笑う",
+    "characters": "めくそはなくそをわらう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "盲蛇に怖じず",
+    "characters": "めくらへびにおじず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "目には目歯には歯",
+    "characters": "めにはめはにはは",
+    "mean": ""
+  },
+  {
+    "kotowaza": "目の上の瘤",
+    "characters": "めのうえのこぶ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "目は口ほどに物を言う",
+    "characters": "めはくちほどにものをいう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "孟母三遷の教え",
+    "characters": "もうぼさんせんのおしえ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "餅は餅屋",
+    "characters": "もちはもちや",
+    "mean": ""
+  },
+  {
+    "kotowaza": "沐猴にして冠す",
+    "characters": "もっこうにしてかんす",
+    "mean": ""
+  },
+  {
+    "kotowaza": "本木に勝る未木なし",
+    "characters": "もときにまさるみきなし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "元の鞘に納まる",
+    "characters": "もとのさやにおさまる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "元の木阿弥",
+    "characters": "もとのもくあみ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "桃栗三年柿八年",
+    "characters": "ももくりさんねんかきはちねん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "焼け石に水",
+    "characters": "やけいしにみず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "焼け野の雉子夜の鶴",
+    "characters": "やけののきぎすよるのつる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "安物買いの銭失い",
+    "characters": "やすものかいのぜにうしない",
+    "mean": ""
+  },
+  {
+    "kotowaza": "柳に雪折れなし",
+    "characters": "やなぎにゆきおれなし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "柳の下にいつも泥鰌はおらぬ",
+    "characters": "やなぎのしたにいつもどじょうはおらぬ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "藪から棒",
+    "characters": "やぶからぼう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "藪を突突いて蛇を出す",
+    "characters": "やぶをつきついてへびをだす",
+    "mean": ""
+  },
+  {
+    "kotowaza": "病膏肓に入る",
+    "characters": "やまいこうこうにいる",
+    "mean": ""
+  },
+  {
+    "kotowaza": "病は気から",
+    "characters": "やまいはきから",
+    "mean": ""
+  },
+  {
+    "kotowaza": "山高きが故に尊からず",
+    "characters": "やまたかきがゆえにとうとからず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "闇夜の鉄砲",
+    "characters": "やみよのてっぽう",
+    "mean": ""
+  },
+  {
+    "kotowaza": "雪と墨",
+    "characters": "ゆきとすみ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "雪に白鷺",
+    "characters": "ゆきにしらさぎ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "油断大敵",
+    "characters": "ゆだんたいてき",
+    "mean": ""
+  },
+  {
+    "kotowaza": "欲に目が眩む",
+    "characters": "よくにめがくらむ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "弱り目に祟り目",
+    "characters": "よわりめにたたりめ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "楽は苦の種、苦は楽の種",
+    "characters": "らくはくのたね、くはらくのたね",
+    "mean": ""
+  },
+  {
+    "kotowaza": "洛陽の紙価を高む",
+    "characters": "らくようのしかをたかむ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "律義者の子沢山",
+    "characters": "りちぎもののこだくさん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "梁上の君子",
+    "characters": "やなじょうのくんし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "両手に花",
+    "characters": "りょうてにはな",
+    "mean": ""
+  },
+  {
+    "kotowaza": "遼東の豕",
+    "characters": "りょうとうのいのこ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "良薬は口に苦し",
+    "characters": "りょうやくはくちにくるし",
+    "mean": ""
+  },
+  {
+    "kotowaza": "類は友を呼ぶ",
+    "characters": "るいはともをよぶ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "壟断",
+    "characters": "ろうだん",
+    "mean": ""
+  },
+  {
+    "kotowaza": "隴を得て蜀を望む",
+    "characters": "ろうをえてしょくをのぞむ",
+    "mean": ""
+  },
+  {
+    "kotowaza": "論語読みの論語知らず",
+    "characters": "ろんごよみのろんごしらず",
+    "mean": ""
+  },
+  {
+    "kotowaza": "渡りに船",
+    "characters": "わたりにふね",
+    "mean": ""
+  },
+  {
+    "kotowaza": "渡る世間に鬼はない",
+    "characters": "わたるせけんにおにはない",
+    "mean": ""
+  },
+  {
+    "kotowaza": "笑う門には福来たる",
+    "characters": "わらうかどにはふくきたる",
+    "mean": "いつも笑い声が満ち、和気藹々（あいあい）とした家には、自然と幸福が巡ってくるものである。"
+  }
+]
