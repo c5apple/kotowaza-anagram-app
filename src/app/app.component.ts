@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { PlayService } from './shared/service/play/play.service';
 
 /**
@@ -9,7 +9,7 @@ import { PlayService } from './shared/service/play/play.service';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
-export class AppComponent {
+export class AppComponent implements OnInit {
 
   constructor(private playService: PlayService) { }
 

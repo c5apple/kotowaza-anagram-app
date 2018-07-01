@@ -3,7 +3,7 @@
  */
 export class Character {
   /** 選択状態 */
-  isFocus: boolean = false;
+  isFocus = false;
 
   /**
    * 文字クラス

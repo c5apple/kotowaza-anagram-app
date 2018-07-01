@@ -18,7 +18,7 @@ export class PlayComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    let questions = 'あおなにしお'.split('');
+    const questions = 'あおなにしお'.split('');
 
     // シャッフル
     let n = questions.length, t, i;
