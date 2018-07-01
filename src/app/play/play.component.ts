@@ -18,16 +18,35 @@ export class PlayComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    this.characters.push(new Character('あ'));
-    this.characters.push(new Character('お'));
-    this.characters.push(new Character('な'));
-    this.characters.push(new Character('に'));
-    this.characters.push(new Character('し'));
-    this.characters.push(new Character('お'));
+    let questions = 'あおなにしお'.split('');
+
+    // シャッフル
+    let n = questions.length, t, i;
+    while (n) {
+      i = Math.floor(Math.random() * n--);
+      t = questions[n];
+      questions[n] = questions[i];
+      questions[i] = t;
+    }
+    // 問題セット
+    questions.forEach(q => {
+      this.characters.push(new Character(q));
+    });
   }
 
-  check() {
+  /**
+   * 答え合わせボタン
+   */
+  check(): void {
     console.log(this.characters);
+    const myAnswer: string = this.characters.map((character: Character) => character.text).join('');
+
+    console.log('myAnswer', myAnswer);
+    if ('あおなにしお' === myAnswer) {
+      console.log('正解');
+    } else {
+      console.log('不正解');
+    }
   }
 
   /**

@@ -34,10 +34,9 @@ export class CharacterComponent implements OnInit, OnChanges {
   }
 
   /**
-   * 
+   * アニメーション終了後処理
    */
-  onAnimateEnd() {
-    console.log('aaa');
+  onAnimateEnd():void {
     this.onAnimated = false;
   }
 

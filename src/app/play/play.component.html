@@ -1,9 +1,11 @@
 <div class="animated fadeIn">
   play works!
-  <div class="row">
-    青菜に塩（あおなにしお）
+  <div class="row answer">
+    <div class="column">
+      青菜に塩（あおなにしお）
+    </div>
   </div>
-  <div class="row">
+  <div class="row characters">
     <div class="column">
       <kaa-character *ngFor="let c of characters" [char]="c.text" [isFocus]="c.isFocus" (isFocusChange)="c.isFocus = $event; changeCharacter($event)"></kaa-character>
     </div>
