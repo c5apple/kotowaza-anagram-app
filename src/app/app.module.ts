@@ -4,6 +4,7 @@ import { HttpModule } from '@angular/http';
 
 import { environment } from '../environments/environment';
 import { AppComponent } from './app.component';
+import { MyAdsenseModule } from './shared/component/my-adsense/my-adsense.module';
 import { PlayModule } from './play/play.module';
 import { StartModule } from './start/start.module';
 
@@ -14,6 +15,7 @@ import { StartModule } from './start/start.module';
   imports: [
     BrowserModule,
     HttpModule,
+    MyAdsenseModule,
     PlayModule,
     StartModule
   ],
