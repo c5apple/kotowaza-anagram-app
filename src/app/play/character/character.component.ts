@@ -20,6 +20,9 @@ export class CharacterComponent implements OnInit, OnChanges {
   /** アニメーションする */
   onAnimated: boolean;
 
+  /** 選択不可 */
+  @Input() disabled = false;
+
   constructor() { }
 
   ngOnInit() {

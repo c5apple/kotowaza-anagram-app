@@ -1,4 +1,4 @@
 <button class="button-large" [ngClass]="{'button-outline' : !isFocus, 'animated flip': onAnimated}" (click)="triggerFocus()"
-  (animationend)="onAnimateEnd()">
+  (animationend)="onAnimateEnd()" [disabled]="disabled">
   {{char}}
 </button>

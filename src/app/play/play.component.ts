@@ -52,6 +52,7 @@ export class PlayComponent implements OnInit {
         characters[i] = t;
       }
       // 問題文字列セット
+      this.characters = [];
       characters.forEach(q => {
         this.characters.push(new Character(q));
       });
@@ -107,5 +108,13 @@ export class PlayComponent implements OnInit {
       this.characters[charcters[1].index].text = charcters[0].text;
       this.characters[charcters[0].index].isFocus = this.characters[charcters[1].index].isFocus = false;
     }
+  }
+
+  /**
+   * 次の問題へボタン
+   */
+  next(): void {
+    // 問題設定
+    this.setQuestion();
   }
 }
