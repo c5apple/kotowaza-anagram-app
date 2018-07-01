@@ -9,5 +9,10 @@
       <kaa-character *ngFor="let c of characters" [char]="c.text" [isFocus]="c.isFocus" (isFocusChange)="c.isFocus = $event; changeCharacter($event)"></kaa-character>
     </div>
   </div>
-  <button (click)="check()">check</button>
+  <div class="row">
+    <div class="column">
+      <kaa-giveup-button></kaa-giveup-button>
+      <button (click)="check()">答え合わせ</button>
+    </div>
+  </div>
 </div>
