@@ -74,15 +74,15 @@ export class PlayComponent implements OnInit {
     // 答えセット
     this.answer = this.question.kotowaza + '（' + this.question.characters + '）';
 
-    console.log(this.characters);
     const myAnswer: string = this.characters.map((character: Character) => character.text).join('');
-
-    console.log('myAnswer', myAnswer);
     if (this.question.characters === myAnswer) {
       console.log('正解');
     } else {
       console.log('不正解');
     }
+
+    // ヒント表示
+    this.hint();
   }
 
   /**
