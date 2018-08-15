@@ -1,6 +1,7 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { GiveupButtonComponent } from './giveup-button.component';
+import { environment } from '../../../environments/environment';
 
 describe('GiveupButtonComponent', () => {
   let component: GiveupButtonComponent;
@@ -8,9 +9,12 @@ describe('GiveupButtonComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ GiveupButtonComponent ]
+      declarations: [GiveupButtonComponent],
+      providers: [
+        environment.PlayService
+      ]
     })
-    .compileComponents();
+      .compileComponents();
   }));
 
   beforeEach(() => {

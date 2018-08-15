@@ -1,6 +1,7 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { StartButtonComponent } from './start-button.component';
+import { environment } from '../../../environments/environment';
 
 describe('StartButtonComponent', () => {
   let component: StartButtonComponent;
@@ -8,9 +9,12 @@ describe('StartButtonComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ StartButtonComponent ]
+      declarations: [StartButtonComponent],
+      providers: [
+        environment.PlayService
+      ]
     })
-    .compileComponents();
+      .compileComponents();
   }));
 
   beforeEach(() => {
