@@ -1,4 +1,4 @@
-import { QuestionService } from "../app/shared/service";
+import { QuestionService } from '../app/shared/service';
 
 export const environment = {
   production: true,
