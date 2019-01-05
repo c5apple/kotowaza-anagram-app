@@ -5,7 +5,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --prod --aot=true",
+    "build": "ng build --prod --aot=true --base-href=/kotowaza-anagram-app/",
     "test": "ng test",
     "lint": "ng lint --type-check",
     "sasslint": "sass-lint -c .sass-lint.yml -q -v",
