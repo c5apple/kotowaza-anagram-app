@@ -14,9 +14,7 @@ describe('StartComponent', () => {
         StartComponent,
         StartButtonComponent
       ],
-      providers: [
-        environment.PlayService
-      ]
+      providers: []
     })
       .compileComponents();
   }));

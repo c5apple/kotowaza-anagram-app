@@ -1,7 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 
-import { PlayService } from '../../shared/service/play/play.service';
-
 /**
  * スタートボタンコンポーネント
  */
@@ -12,15 +10,8 @@ import { PlayService } from '../../shared/service/play/play.service';
 })
 export class StartButtonComponent implements OnInit {
 
-  constructor(private playService: PlayService) { }
+  constructor() { }
 
   ngOnInit() {
-  }
-
-  /**
-   * スタートボタンクリック
-   */
-  public start() {
-    this.playService.start();
   }
 }

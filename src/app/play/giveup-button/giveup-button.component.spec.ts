@@ -10,9 +10,7 @@ describe('GiveupButtonComponent', () => {
   beforeEach(async(() => {
     TestBed.configureTestingModule({
       declarations: [GiveupButtonComponent],
-      providers: [
-        environment.PlayService
-      ]
+      providers: []
     })
       .compileComponents();
   }));

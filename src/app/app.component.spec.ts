@@ -17,7 +17,6 @@ describe('AppComponent', () => {
         StartModule
       ],
       providers: [
-        environment.PlayService,
         environment.QuestionService
       ]
     }).compileComponents();

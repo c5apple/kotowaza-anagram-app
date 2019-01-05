@@ -17,7 +17,6 @@ describe('PlayComponent', () => {
         GiveupButtonComponent
       ],
       providers: [
-        environment.PlayService,
         environment.QuestionService
       ]
     })

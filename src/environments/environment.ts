@@ -1,4 +1,4 @@
-import { PlayService, QuestionService, QuestionMockService } from "../app/shared/service";
+import { QuestionService, QuestionMockService } from "../app/shared/service";
 
 // The file contents for the current environment will overwrite these during build.
 // The build system defaults to the dev environment which uses `environment.ts`, but if you do
@@ -7,6 +7,5 @@ import { PlayService, QuestionService, QuestionMockService } from "../app/shared
 
 export const environment = {
   production: false,
-  PlayService: { provide: PlayService, useClass: PlayService },
   QuestionService: { provide: QuestionService, useClass: QuestionMockService }
 };

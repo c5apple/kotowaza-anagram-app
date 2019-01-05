@@ -10,9 +10,7 @@ describe('StartButtonComponent', () => {
   beforeEach(async(() => {
     TestBed.configureTestingModule({
       declarations: [StartButtonComponent],
-      providers: [
-        environment.PlayService
-      ]
+      providers: []
     })
       .compileComponents();
   }));

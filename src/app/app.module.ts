@@ -4,6 +4,7 @@ import { HttpModule } from '@angular/http';
 
 import { environment } from '../environments/environment';
 import { AppComponent } from './app.component';
+import { AppRoutingModule } from './app-routing.module';
 import { MyAdsenseModule } from './shared/component/my-adsense/my-adsense.module';
 import { PlayModule } from './play/play.module';
 import { StartModule } from './start/start.module';
@@ -15,12 +16,12 @@ import { StartModule } from './start/start.module';
   imports: [
     BrowserModule,
     HttpModule,
+    AppRoutingModule,
     MyAdsenseModule,
     PlayModule,
     StartModule
   ],
   providers: [
-    environment.PlayService,
     environment.QuestionService
   ],
   bootstrap: [AppComponent]
