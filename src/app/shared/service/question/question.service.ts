@@ -1,6 +1,8 @@
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs/Observable';
 import { ApiService } from '../api.service';
+import { of } from 'rxjs';
+import { map } from 'rxjs/operators';
 
 /**
  * 問題サービス
@@ -21,14 +23,14 @@ export class QuestionService extends ApiService {
   public getQuestions(): Observable<any[]> {
     // キャッシュ利用
     if (this.questions.length > 0) {
-      return Observable.of(this.questions);
+      return of(this.questions);
     }
 
     // API実行
     const params = {};
-    return this.get(this.url, params).map(questions => {
+    return this.get(this.url, params).pipe(map(questions => {
       this.questions = questions;
       return questions;
-    });
+    }));
   }
 }
