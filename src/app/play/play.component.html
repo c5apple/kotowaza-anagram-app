@@ -3,8 +3,8 @@
 
   <div class="row characters">
     <div class="column">
-      <kaa-character *ngFor="let c of characters" [char]="c.text" [isFocus]="c.isFocus" (isFocusChange)="c.isFocus = $event; changeCharacter($event)"
-        [disabled]="(answer !== '')"></kaa-character>
+      <kaa-character *ngFor="let c of characters" [char]="c.text" [isFocus]="c.isFocus"
+        (isFocusChange)="c.isFocus = $event; changeCharacter($event)" [disabled]="(answer !== '')"></kaa-character>
     </div>
   </div>
   <div class="row hint animated fadeIn" *ngIf="mean !== ''">
@@ -14,9 +14,10 @@
   </div>
   <div class="row">
     <div class="column">
-      <kaa-giveup-button></kaa-giveup-button>
-      <button (click)="hint()" *ngIf="question.mean !== ''" class="button-outline" [disabled]="mean !== ''">ヒント</button>
-      <button (click)="check()" *ngIf="(answer === '')">答え合わせ</button>
+      <kaa-giveup-button></kaa-giveup-button>&nbsp;
+      <button (click)="hint()" *ngIf="question.mean !== ''" class="button-outline"
+        [disabled]="mean !== ''">ヒント</button>&nbsp;
+      <button (click)="check()" *ngIf="(answer === '')">答え合わせ</button>&nbsp;
       <button (click)="next()" *ngIf="(answer !== '')">次の問題へ</button>
     </div>
   </div>
