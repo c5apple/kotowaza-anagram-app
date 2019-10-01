@@ -25,6 +25,9 @@ export class PlayComponent implements OnInit {
   /** 意味 */
   mean = '';
 
+  /** 正誤判定 */
+  isCorrect = false;
+
   constructor(private questionService: QuestionService) { }
 
   ngOnInit() {
@@ -77,8 +80,10 @@ export class PlayComponent implements OnInit {
     const myAnswer: string = this.characters.map((character: Character) => character.text).join('');
     if (this.question.characters === myAnswer) {
       console.log('正解');
+      this.isCorrect = true;
     } else {
       console.log('不正解');
+      this.isCorrect = false;
     }
 
     // ヒント表示

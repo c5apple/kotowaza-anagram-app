@@ -7,6 +7,12 @@
         (isFocusChange)="c.isFocus = $event; changeCharacter($event)" [disabled]="(answer !== '')"></kaa-character>
     </div>
   </div>
+
+  <ng-container *ngIf="(answer !== '')">
+    <img src="./assets/mark_maru.png" width="50" height="50" class="mark animated jello" *ngIf="isCorrect">
+    <img src="./assets/mark_batsu.png" width="50" height="50" class="mark animated jello" *ngIf="!isCorrect">
+  </ng-container>
+
   <div class="row hint animated fadeIn" *ngIf="mean !== ''">
     <div class="column">
       <pre>{{mean}}</pre>
