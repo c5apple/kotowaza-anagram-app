@@ -1,4 +1,0 @@
-RewriteEngine on
-RewriteBase /
-
-ErrorDocument 404 /kotowaza-anagram-app/
